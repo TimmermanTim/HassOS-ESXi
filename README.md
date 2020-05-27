@@ -1,6 +1,6 @@
 # HassOS-ESXi
 
-Because there are no official HassOS releases for VMware ESXi, I decided to create one myself using the official VMDK release.
+Because there are no official HassOS releases for VMware ESXi, I decided to create one myself using the official, latest stable, VMDK release.
 
 The official VMDK release is a VMware Workstation disk which can only be used in ESXi as an IDE harddrive.
 
