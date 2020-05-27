@@ -2,7 +2,7 @@
 
 Because there are no official HassOS releases for VMware ESXi, I decided to create one myself using the official, latest stable, VMDK release from https://github.com/home-assistant/operating-system/releases.
 
-The official VMDK release is a VMware Workstation disk which can only be used in ESXi as an IDE harddrive.
+The official VMDK release is a VMware Workstation disk which can only be used in ESXi as an IDE harddrive. And the official OVA file can only be imported in VMware Workstation, and importing this in ESXi fails.
 
 The problem with that is that you cannot create a snapshot while the VM is running. It also means you cannot create a backup using backup software line Nakivo which I'm using to backup my VM's.
 
