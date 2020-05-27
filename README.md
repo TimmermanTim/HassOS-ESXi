@@ -10,4 +10,4 @@ I've created this image by converting the VMDK file using StarWind V2V converter
 
 The result is a VM with a default of 2GB RAM end a 16GB HDD connected to to the VMware SCSI adapter instead of IDE. Also the network interface is of the VMXNET3 type instead of the E1000 you need to use with the official image.
 
-I will try to create a wiki on how to import the VM, expand the disk, set a static IP and add a second network interface.
+I will soon try to create a wiki on how to import the VM, expand the disk, set a static IP and add a second network interface.
