@@ -1,6 +1,6 @@
 # HassOS-ESXi
 
-Because there are no official HassOS releases for VMware ESXi, I decided to create one myself using the official, latest stable, VMDK release from https://github.com/home-assistant/operating-system/releases.
+Because there are no official HassOS releases for VMware ESXi, I decided to create one myself using the latest VMDK release from https://github.com/home-assistant/operating-system/releases.
 
 The official VMDK release is a VMware Workstation disk which can only be used in ESXi as an IDE harddrive. And the official OVA file can only be imported in VMware Workstation, and importing this in ESXi fails.
 
